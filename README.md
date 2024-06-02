@@ -1,4 +1,3 @@
-![image](https://github.com/HongSukYoung/MNIST-Machine-Learning-Model/assets/145235252/929bba52-9476-45c8-9be4-eda3d068de8d)
 ![image](https://github.com/HongSukYoung/MNIST-Machine-Learning-Model/assets/145235252/c1680ba1-8e13-4576-8d47-8f7d6c7ec903)
 ![image](https://github.com/HongSukYoung/MNIST-Machine-Learning-Model/assets/145235252/44128504-f758-45b8-bb28-1355b59a5896)
 ![image](https://github.com/HongSukYoung/MNIST-Machine-Learning-Model/assets/145235252/5c948ebf-1f29-406d-926c-0e1b938e34c1)
